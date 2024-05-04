@@ -1,0 +1,50 @@
+body {
+    background-image: url(d7d71318-7c6d-4083-8351-f9b0b1e39ff0.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar{
+    border: 0px;
+    border-radius: 12px;
+}
+.bg-body-tertiary{
+    background-color: #93e682 !important;
+}
+
+.form-control {
+    border: 0px solid #c8e6d7 ;
+    margin: 10px 0; /* 10px de margen arriba y abajo, y 0 de margen a los lados */
+    background-color:#f0f9f3 ;
+
+}
+
+.btn{
+    background-color: #ade7a2;
+    border: 0px solid #ccc;
+    color: #333;
+}
+
+.btn:hover {
+  background-color: #93e682; /* Nuevo color cuando el cursor está sobre el botón */
+  color: #333;
+}
+
+.accordion-item{
+    background-image: url(d7d71318-7c6d-4083-8351-f9b0b1e39ff0.webp);
+    background-size: cover;
+}
+
+.card-body{
+    background-color: #93e682;
+}
+
+.card{
+    border: 0px solid #ade7a2;
+}
+
+.container{
+    margin: 10px 0;
+    border: 0px solid #ade7a2;
+    border-radius: 12px;
+}
